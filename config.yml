@@ -1,4 +1,4 @@
-baseURL: 'https://hugo-ladder.pages.dev'
+baseURL: 'https://yang-y-f.github.io'
 title: LADDER
 theme: hugo-theme-ladder
 license: MIT
@@ -9,10 +9,10 @@ defaultContentLanguage: 'en'
 googleAnalytics: G-4WXJ5TEK2S
 paginate: 10
 hasCJKLanguage: true
-copyright: "2023 GuangzhengLi All rights reserved"
+copyright: "2023 yang-y-f All rights reserved"
 Author:
-  name: "Guangzheng Li"
-  email: "iguangzhengli@gmail.com"
+  name: "yang-y-f"
+  email: "yang2016105@gmail.com"
 menu:
   main:
     - name: Blog
@@ -38,7 +38,7 @@ params:
   avatarURL: /images/avatar.png
   author: Hugo Ladder
   authorDescription: A clean, fast hugo theme focused on Reading
-  info: Ladder is a clean, simple but beautiful theme with awesome features
+  info: XXXXXXXXXXXXXXXXXXXXX Ladder is a clean, simple but beautiful theme with awesome features
   favicon: /images/avatar.png
   options:
     showDarkMode: true
